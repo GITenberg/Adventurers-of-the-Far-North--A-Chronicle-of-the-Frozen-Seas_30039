@@ -1,0 +1,32 @@
+_repo: Adventurers-of-the-Far-North--A-Chronicle-of-the-Frozen-Seas_30039
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+description: Stephen Leacock's Adventurers of the Far North is the compelling factual
+  account of Canada's exploration of the polar region and the intrepid explorers who
+  ventured into that vast and unforgiving expanse.
+gutenberg_issued: '2009-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30039'
+  lccn: '15013478'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Northwest, Canadian -- Description and travel'
+- !lcsh 'Arctic regions'
+title: 'Adventurers of the Far North: A Chronicle of the Frozen Seas'
+url: http://www.gutenberg.org/ebooks/30039
