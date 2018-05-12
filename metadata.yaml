@@ -15,6 +15,8 @@ creator:
 description: Stephen Leacock's Adventurers of the Far North is the compelling factual
   account of Canada's exploration of the polar region and the intrepid explorers who
   ventured into that vast and unforgiving expanse.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30039#Adventurers-of-the-Far-North--A-Chronicle-of-the-Frozen-Seas
 gutenberg_issued: '2009-09-20'
 gutenberg_type: Text
 identifiers:
